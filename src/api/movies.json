@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "name": "Another Life",
+      "imageURL": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfvvNvN0THq5i6WRkD3HHKnnsMPw6X_UnB8rE9DdVi1OQcBKsB7d1RnUvAx4w8JlSFFh2AyMcV0LxEDKycK6NzHjoKwWdkuFW7uDX9_nJngPPwmAwOfxqGYZRHQN.jpg?r=efd",
+      "overview": "SAW legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "rating": "9",
+      "id": 11
+    },
+    {
+      "name": "Star Trek Discovery",
+      "imageURL": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABX-qRhqEsQVrYmSiJ16C1L02yBBQCirkM2_oRXxHUzjNfR9S10BkksdtlegUW5xWW1_2hoLnHAPlA4CKufUY9byAMGwA2ZekMyhejn_xpttKOygEQOR5SWkZFTC9.jpg?r=0e0",
+      "overview": "A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers. ",
+      "rating": "10",
+      "id": 12
+    },
+    {
+      "name": "Lost in Space",
+      "imageURL": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe5TsVeChnFnPGTyfBRKXzF4YowytWK4YaIoCBmpipi2WCVYnMnD0_Crw7JJ1iM_rBn_JBCRHC3Xi-iseavu-Uk68Pd-Guih7CCwBRfjW9al84fCcuLzgc9Hk-wB.jpg?r=d81",
+      "overview": "When a mafia accountant is taken hostage on his beat, a police officer – wracked by guilt from a prior stint as a negotiator – must negotiate the standoff, even as his own family is held captive by the mob.gfsdgsdgd",
+      "rating": "6.3",
+      "id": 13
+    },
+    {
+      "name": "Colony",
+      "imageURL": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABczVjOKEn4WQGwr28Yfj_FnAZnMc2jNpl_gzmOLkZ8eko-YzdvF8ufPSwa_W8rmtDAePgQYXEcQGt4LzGmWOmgNj6Lk.webp?r=e79",
+      "overview": "Lorem ipsum lorem lorem ipsun der lorem det det bresd press",
+      "rating": "8",
+      "id": 14
+    }
+  ]
+}
